@@ -1,0 +1,44 @@
+
+.App {
+  text-align: center;
+}
+.inner-card{
+  background-color: #F6F6F6;
+  padding: 50px;
+  border-radius: 10px;
+  margin: 5% 10%;
+  padding: 25px;
+}
+.start-page .inner-card{
+  width: fit-content;
+  padding: 100px;
+  margin: auto;
+  margin-top: 15%;
+}
+.btn-primary{
+  padding: 15px 55px;
+  font-size: 32px;
+  background-color: #CF92D4;
+  border: none;
+}
+.btn-primary{
+  background-color: #fff;
+  color: #666;
+  border: 1px solid #454545;
+}
+.answers .btn{
+  font-size: 20px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 30px;
+}
+.btn:hover{
+  background-color: #449a44;
+  color: #fff;
+  border: #F6F6F6;
+}
+.controls .btn{
+  padding: 10px 30px;
+  margin-right: 20px;
+  font-size: 18px;
+}
